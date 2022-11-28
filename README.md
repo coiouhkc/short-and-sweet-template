@@ -21,6 +21,8 @@ The goal of the short-and-sweet talk is not to provide an extensive teach-in exp
 ## What
 
 * slides (Markdown/AsciiDoc)
+  * you might want to use Marp (https://marpit.marp.app) in VSCode + Marp extension
+    * see also https://github.com/yhatt/marp-cli-example
 * code
 * script/helper snippers to speed up the demo
 
@@ -38,33 +40,3 @@ Overall duration should be around 15-30 mins to reserve enough time to come to t
   * let https://github.com/OpenValue-D fork it
 * book the [When](##When)
 * and have fun
-
-
----
----
-
-# Short and sweet
-
-## Topic
-
----
-
-# Intro, reason & background
-
----
-
-# Use case 1
-
----
-
-# Use case 2
-
----
-
-# Demo
-
----
-
-# Q&A
-
----
